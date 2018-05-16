@@ -4,7 +4,7 @@ import "./Ownable.sol";
 import "./Members.sol";
 
 /**
- * @title Member
+ * @title ShopCoin
  * @dev 会員管理機能付き仮想通貨
  */
 contract ShopCoin is Ownable {
